@@ -1,0 +1,7 @@
+.idea
+*.pyc
+secret.py
+*.txt
+config.py
+test.py
+utils.py
