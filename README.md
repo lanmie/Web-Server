@@ -10,6 +10,8 @@
 功能演示
 --------
 
+- 测试账号：pin  密码：123
+
 - 登录
 
 ![avatar](https://github.com/lanmie/Web-Server/blob/master/static/weibo1.gif)
